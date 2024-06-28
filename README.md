@@ -32,3 +32,17 @@ A API gerencia os dados de alimentos em um sistema de estoque.
 `(PUT): /api/foods/:id - Atualiza as informações cadastradas.`
 
 `(DELETE): /api/foods/:id - Remove o alimento.`
+
+## Instalação
+1. Clone o repositório
+   ```bash
+   git clone https://github.com/amitairferreira/PWEB-Atividade-ADS.git
+    ```
+2. Entre na pasta do projeto e instale as dependências
+   ```bash
+   npm install
+    ```
+3. Na pasta raiz do projeto renomeie .env.example para .env e adicione as variáveis. Em seguida, execute o servidor no terminal
+   ```bash
+   npm run dev
+    ```
