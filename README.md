@@ -43,9 +43,12 @@ A API gerencia os dados de alimentos em um sistema de estoque.
    npm install
     ```
 3. Na pasta raiz do projeto renomeie .env.example para .env e adicione as variáveis. Em seguida, execute o servidor no terminal
+   
+`MONGODB_URI="mongodb+srv://<username>:<password>@<clusterName>.knnsfnz.mongodb.net/NomeCollection"`
+
    ```bash
    npm run dev
-    ```
+   ```
 4. O servidor iniciará e exibirá a seguinte mensagem:
    >Servidor rodando na porta: PORT
    
