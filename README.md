@@ -46,3 +46,7 @@ A API gerencia os dados de alimentos em um sistema de estoque.
    ```bash
    npm run dev
     ```
+4. O servidor iniciará e exibirá a seguinte mensagem:
+   >Servidor rodando na porta: PORT
+   
+   >Banco conectado (:
